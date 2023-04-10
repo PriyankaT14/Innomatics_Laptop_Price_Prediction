@@ -1,0 +1,721 @@
+Brand,Cpu Brand,Processor Brand,Operating System,Display INCH,RAM Size GB,RAM Type,SSD GB,HDD GB,EMMC GB,MRP,Touchscreen
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,32990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,49990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,49990,0
+HP,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+DELL,Other Intel Processor,Intel,Windows,15.6,8,DDR4,256,1000,0,38990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+realme,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,46990,0
+ASUS,AMD Processor,AMD,Windows,14.0,16,DDR4,512,0,0,44990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,59990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,32990,0
+ASUS,AMD Processor,AMD,Windows,17.3,8,DDR4,512,0,0,52990,0
+acer,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,29990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,47990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,45990,0
+MSI,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,47990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,256,0,0,88990,0
+HP,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,40990,0
+Lenovo,Other Intel Processor,Intel,DOS,15.6,4,LPDDR4,256,256,0,19490,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,65990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+acer,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,58990,0
+realme,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,46990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,24990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,47990,0
+ASUS,AMD Processor,AMD,Windows,17.3,8,DDR4,512,0,0,73990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,53490,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,51990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,66990,1
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+acer,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,51990,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,256,0,0,25990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,43990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,64490,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,40990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,38990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,58990,0
+realme,Other Intel Processor,Intel,Windows,14.0,8,DDR4,512,0,0,59990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,47990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,37499,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,14.0,8,DDR4,1000,0,0,94990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,32990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,Other Intel Processor,Intel,Windows,14.0,4,DDR4,256,0,0,23990,0
+HP,AMD Processor,AMD,Windows,14.0,16,DDR4,512,0,0,48990,0
+APPLE,Apple M2,Apple,Mac,13.3,8,UnifiedMemory,512,0,0,139990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,89990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,1000,0,0,59990,0
+DELL,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,70990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Infinix,Other Intel Processor,Intel,Windows,14.0,8,LPDDR4X,256,0,0,22990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,46990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,50990,0
+Infinix,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,256,0,0,28990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,84990,0
+APPLE,Apple M1 Pro,Apple,Mac,14.2,16,UnifiedMemory,512,0,0,181990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+MSI,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,109990,0
+SAMSUNG,Qualcomm Snapdragon,Qualcomm,Windows,14.0,4,LPDDR4X,0,0,128,32990,0
+Infinix,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,37990,0
+APPLE,Apple M2,Apple,Mac,13.6,8,UnifiedMemory,512,0,0,139990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,4,DDR4,256,0,0,29990,0
+Lenovo,Other Intel Processor,Intel,Chrome,14.0,4,DDR4,0,0,64,19490,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,256,1000,0,52990,0
+HP,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,41890,0
+DELL,Other Intel Processor,Intel,Windows,15.6,8,DDR4,256,0,0,30428,0
+acer,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,34990,0
+Lenovo,Other Intel Processor,Intel,Chrome,14.0,4,DDR4,0,0,64,19490,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,4,DDR4,256,0,0,29990,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,256,0,0,88990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+MSI,Intel Core i7,Intel,Windows,15.6,8,DDR4,512,0,0,65990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,33490,0
+HP,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,60990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,46990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,59990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,114990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i7,Intel,Windows,16.0,16,DDR4,1000,0,0,119990,0
+Infinix,Intel Core i5,Intel,Windows,15.6,8,LPDDR4X,512,0,0,42990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,LPDDR5,512,0,0,89990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+MSI,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,79990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,1000,0,0,70990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,33900,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+realme,Qualcomm Snapdragon,Intel,Windows,14.0,8,DDR4,512,0,0,59990,0
+Infinix,Intel Core i7,Intel,Windows,15.6,16,LPDDR4X,512,0,0,52990,0
+APPLE,Apple M1,Apple,Mac,13.3,16,DDR4,512,0,0,124990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+RedmiBook,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,31990,0
+acer,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,66990,0
+DELL,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,89081,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,512,0,0,104990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,53490,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,256,0,0,45990,1
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,45990,0
+MSI,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,51990,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,75990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,36990,0
+HP,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,78800,1
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,29390,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+Infinix,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,256,0,0,30990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,62490,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,DDR4,512,0,0,89990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,58899,0
+MSI,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,85990,0
+DELL,AMD Processor,AMD,Windows,35.0,8,DDR4,0,1000,0,33099,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,63490,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,38990,0
+HP,Intel Core i5,Intel,Windows,16.1,8,DDR4,512,0,0,67990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+HP,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39790,0
+APPLE,Apple M1 Pro,Apple,Mac,16.2,16,UnifiedMemory,1000,0,0,241990,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,512,0,0,104990,0
+DELL,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,42190,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i7,Intel,Windows,15.6,16,DDR5,1000,0,0,99990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+APPLE,Apple M1 Max,Apple,Mac,16.2,32,UnifiedMemory,1000,0,0,309490,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,256,1000,0,64990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,89990,0
+ASUS,AMD Processor,AMD,Windows,17.3,16,DDR4,512,0,0,85990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+APPLE,Apple M1 Pro,Apple,Mac,14.2,16,UnifiedMemory,1000,0,0,222990,0
+Ultimus,Other Intel Processor,Intel,DOS,14.1,4,LPDDR4,128,0,0,15990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+DELL,Other Intel Processor,Intel,Windows,15.6,8,DDR4,256,1000,0,45900,0
+ASUS,Intel Core i7,Intel,Windows,13.3,16,LPDDR4X,512,0,0,79990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,56990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,34990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,43580,0
+Lenovo,AMD Processor,AMD,Windows,13.3,16,DDR4,512,0,0,74990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,37490,0
+Infinix,Other Intel Processor,Intel,Windows,14.0,4,LPDDR4X,128,0,0,20990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,109990,0
+ASUS,Intel Core i5,Intel,Windows,13.3,16,LPDDR4,512,0,0,71990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Infinix,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,512,0,0,32990,0
+MSI,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,43990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+acer,AMD Processor,AMD,Windows,14.0,8,DDR4,256,0,0,25990,0
+ASUS,Other Intel Processor,Intel,Windows,15.6,16,DDR4,1000,0,0,122990,0
+acer,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,68990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,59990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,0,1000,0,37990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,Other Intel Processor,Intel,Windows,14.0,4,DDR4,256,0,0,25950,0
+realme,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,64999,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,60990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,36990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+SAMSUNG,Intel Core i5,Intel,Windows,15.6,8,LPDDR4X,256,0,0,59990,0
+APPLE,Apple M1 Pro,Apple,Mac,16.2,16,UnifiedMemory,512,0,0,222990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+DELL,Other Intel Processor,Intel,Windows,15.6,16,DDR5,1000,0,0,235283,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,38990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,67990,0
+MSI,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,79990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,67990,0
+MSI,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,79990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,LPDDR5,512,0,0,89990,0
+ASUS,Other Intel Processor,Intel,Windows,16.0,32,DDR5,1000,0,0,241990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,43490,0
+realme,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,46990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+Vaio,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,40990,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,256,0,0,94990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,114990,0
+APPLE,Apple M2,Apple,Mac,13.3,8,UnifiedMemory,256,0,0,121990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,0,1000,0,37990,0
+ASUS,Other Intel Processor,Intel,Windows,14.0,8,DDR4,256,0,0,27990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,40190,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,34990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,LPDDR4X,1000,0,0,94990,1
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,69990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,59990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,66990,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,Intel Core i7,Intel,Windows,13.3,16,LPDDR4X,512,0,0,104990,1
+DELL,Other Intel Processor,Intel,Windows,14.0,8,DDR4,256,0,0,54900,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+Lenovo,AMD Processor,AMD,Windows,16.0,16,DDR4,1000,0,0,136990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,48184,0
+ASUS,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,74990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,60990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,49990,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,67990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Lenovo,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,58000,0
+Infinix,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,256,0,0,29990,0
+ASUS,AMD Processor,AMD,Windows,13.4,16,LPDDR5,1000,0,0,114990,1
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,33990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,64990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,79990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Infinix,Intel Core i3,Intel,Windows,14.0,8,LPDDR4X,256,0,0,28990,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,56990,0
+HP,AMD Processor,AMD,Windows,13.3,16,DDR4,512,0,0,81990,1
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,129990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,0,1000,0,38990,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,256,1000,0,79990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+APPLE,Apple M2,Apple,Mac,13.6,8,UnifiedMemory,512,0,0,139990,0
+ASUS,Intel Core i7,Intel,Windows,17.3,16,DDR5,1000,0,0,109990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,154990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,62990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,47990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,43667,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,135990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,512,0,0,98990,0
+Infinix,Intel Core i7,Intel,Windows,14.0,16,LPDDR4X,512,0,0,46990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,35990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i7,Intel,Windows,17.3,16,DDR5,1000,0,0,109990,0
+APPLE,Apple M2,Apple,Mac,13.6,8,UnifiedMemory,512,0,0,139990,0
+DELL,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,74770,1
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,40799,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,69490,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,39990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,13.3,16,LPDDR5,512,0,0,99990,1
+APPLE,Apple M1 Pro,Apple,Mac,16.2,16,UnifiedMemory,1000,0,0,241990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,40990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,60390,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,69990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,44990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,0,0,44990,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,60390,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,69490,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,40799,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,55990,0
+Lenovo,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,74990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,69990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,44990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,1000,0,0,59990,0
+APPLE,Apple M1 Pro,Apple,Mac,16.2,16,UnifiedMemory,512,0,0,222990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+DELL,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,74770,1
+ASUS,Intel Core i7,Intel,Windows,17.3,16,DDR5,1000,0,0,109990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,62990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,40990,0
+MSI,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,58499,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,65990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+DELL,Intel Core i7,Intel,Windows,15.6,16,DDR5,512,0,0,111990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,68490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+Infinix,Intel Core i7,Intel,Windows,14.0,16,LPDDR4X,512,0,0,46990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,8,DDR4,0,1000,0,83990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,54990,0
+ASUS,Other Intel Processor,Intel,Chrome,11.6,4,LPDDR4,0,0,32,14990,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+APPLE,Apple M1,Apple,Mac,13.3,8,DDR4,1000,0,0,149990,0
+DELL,Other Intel Processor,Intel,Windows,35.0,8,DDR4,512,0,0,63090,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR5,1000,0,0,200000,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,37390,0
+ASUS,Intel Core i5,Intel,Windows,14.0,8,LPDDR4X,512,0,0,63990,1
+DELL,Other Intel Processor,Intel,Windows,14.0,8,DDR4,512,0,0,43090,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,4,DDR4,256,0,0,44700,0
+HP,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,41150,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,33990,0
+MSI,Intel Core i7,Intel,Windows,17.3,16,DDR5,1000,0,0,190890,0
+ASUS,Other Intel Processor,Intel,Windows,13.4,16,LPDDR5,1000,0,0,174990,1
+HP,AMD Processor,AMD,Windows,16.1,16,DDR4,1000,0,0,118990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,63980,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,54300,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,36400,0
+ASUS,Intel Core i3,Intel,Windows,15.6,4,DDR4,256,0,0,28590,0
+DELL,AMD Processor,AMD,Windows,16.0,16,DDR4,512,0,0,69999,0
+ASUS,Other Intel Processor,Intel,Windows,15.6,32,DDR5,1000,0,0,301990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.0,8,DDR4,256,0,0,37000,0
+Lenovo,Intel Core i5,Intel,Windows,13.0,16,DDR4,512,0,0,64990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+DELL,Intel Core i3,Intel,Windows,14.96,8,DDR4,256,0,0,42690,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,140990,0
+Lenovo,Intel Core i3,Intel,Windows,15.0,4,DDR4,256,0,0,38990,0
+HP,Intel Core i7,Intel,Windows,13.5,16,LPDDR4X,512,0,0,128990,0
+acer,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,54999,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,60130,0
+acer,Other Intel Processor,Intel,Windows,14.0,8,DDR4,256,0,0,29490,0
+DELL,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,72490,1
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+GIGABYTE,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,73990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,0,1000,0,47130,0
+Lenovo,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,55600,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+DELL,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,49690,0
+ASUS,Intel Core i7,Intel,Windows,16.0,32,DDR5,1000,0,0,239990,0
+MSI,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,73990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,52490,0
+HP,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,41990,0
+ASUS,Other Intel Processor,Intel,Windows,14.0,8,DDR4,256,0,0,29990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Nokia,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,50490,0
+acer,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,1000,0,96490,0
+Infinix,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,37990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+MSI,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,74990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,51990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,256,1000,0,71345,0
+ASUS,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,101490,0
+MSI,Intel Core i7,Intel,Windows,15.6,32,DDR5,1000,0,0,274990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,199990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+DELL,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,41090,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,0,0,50499,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+HP,AMD Processor,AMD,Windows,16.1,8,DDR4,512,0,0,78950,0
+Lenovo,AMD Processor,AMD,Windows,14.0,16,LPDDR4X,512,0,0,67990,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,187990,0
+Lenovo,Intel Core i7,Intel,Windows,14.0,16,DDR4,1000,0,0,102990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+ASUS,Intel Core i3,Intel,DOS,15.6,4,DDR4,256,0,0,35990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,52575,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,50990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,60125,0
+Lenovo,Other Intel Processor,Intel,Windows,11.6,4,DDR4,256,0,0,26490,0
+HP,AMD Processor,AMD,Windows,16.1,8,DDR4,512,0,0,80249,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,128,1000,0,129999,0
+ASUS,AMD Processor,AMD,Windows,14.0,8,DDR4,1000,0,0,76990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,36990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,107790,0
+DELL,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,75990,1
+ASUS,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,95990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,61999,0
+HP,Other Intel Processor,Intel,Windows,14.0,8,DDR4,256,0,0,28990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,54990,0
+ASUS,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,56990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,8,DDR4,256,0,0,45990,0
+ASUS,Intel Core i3,Intel,Windows,14.1,8,DDR4,512,0,0,38216,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+MSI,Intel Core i7,Intel,Windows,15.6,8,DDR4,512,0,0,79990,0
+DELL,Intel Core i3,Intel,Windows,15.6,4,DDR4,256,1000,0,43990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+HP,AMD Processor,AMD,Windows,16.1,16,DDR4,1000,0,0,108250,0
+ASUS,Intel Core i3,Intel,Windows,15.6,4,DDR4,0,1000,0,28990,0
+MSI,Other Intel Processor,Intel,Windows,17.3,32,DDR5,2000,0,0,389990,0
+DELL,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,67224,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+acer,AMD Processor,AMD,Windows,15.6,16,DDR4,256,1000,0,114990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,4,DDR4,0,1000,0,61249,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+HP,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,69990,0
+Lenovo,AMD Processor,AMD,DOS,14.0,8,DDR4,512,0,0,69990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,79990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,37990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Infinix,Intel Core i5,Intel,Windows,14.0,8,LPDDR4X,512,0,0,36990,0
+ASUS,Other Intel Processor,Intel,Windows,11.6,4,DDR4,128,0,0,29980,1
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Intel Core i5,Intel,Windows,14.0,16,LPDDR4X,512,0,0,95990,1
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,41600,0
+DELL,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,67224,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,61986,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,Intel Core i5,Intel,Windows,14.0,4,DDR4,0,1000,0,61249,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,38999,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,4,DDR4,256,0,0,31990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,37990,0
+ASUS,Other Intel Processor,Intel,Windows,11.6,4,DDR4,128,0,0,29980,1
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,46990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+Infinix,Intel Core i5,Intel,Windows,14.0,8,LPDDR4X,512,0,0,37990,0
+Infinix,Intel Core i5,Intel,Windows,14.0,8,LPDDR4X,512,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+acer,AMD Processor,AMD,Windows,15.6,8,DDR4,256,1000,0,61490,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,109990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,54990,0
+Lenovo,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,50990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+MSI,Intel Core i5,Intel,Windows,15.6,8,DDR4,0,1000,0,62190,0
+ASUS,Other Intel Processor,Intel,Chrome,15.6,4,LPDDR4,0,0,64,24390,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,0,1000,0,36990,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,159990,0
+ASUS,Intel Core i3,Intel,Windows,14.0,4,DDR4,256,0,0,34490,0
+ASUS,AMD Processor,AMD,Windows,16.6,16,DDR4,512,0,0,99990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,Intel Core i5,Intel,Windows,13.3,8,LPDDR4X,512,0,0,79990,0
+Infinix,Other Intel Processor,Intel,Windows,14.0,4,LPDDR4X,128,0,0,20990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,1000,0,41490,0
+DELL,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,206581,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,59990,0
+acer,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,62990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+ASUS,AMD Processor,AMD,Windows,15.6,8,DDR4,256,1000,0,62990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,61990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,105990,0
+acer,Intel Core i7,Intel,Windows,15.6,16,DDR5,1000,0,0,155490,0
+Ultimus,Other Intel Processor,Intel,Windows,14.1,4,LPDDR4,128,0,0,19990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,4,DDR4,0,1000,0,33499,0
+Infinix,Intel Core i5,Intel,Windows,15.6,8,LPDDR4X,512,0,0,42990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+HP,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,63990,0
+acer,Other Intel Processor,Intel,Windows,15.6,16,DDR4,1000,0,0,124990,0
+ASUS,Other Intel Processor,Intel,Windows,11.6,4,DDR4,0,0,64,21990,0
+Lenovo,Other Intel Processor,Intel,Windows,14.0,4,DDR4,256,0,0,30100,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,Intel Core i7,Intel,Windows,17.3,32,DDR5,1000,0,0,199990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,61130,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,1000,0,40990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,1000,0,0,75990,0
+HP,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,46890,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,37390,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,68490,0
+ASUS,Other Intel Processor,Intel,Windows,11.6,4,DDR4,0,0,64,19990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,DDR4,512,0,0,89990,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,59790,0
+MSI,Other Intel Processor,Intel,Windows,15.6,16,DDR4,1000,0,0,125990,0
+ASUS,AMD Processor,AMD,Windows,16.0,32,DDR5,2000,0,0,249990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,149990,0
+DELL,Other Intel Processor,Intel,Windows,15.6,8,DDR4,256,0,0,36990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,85990,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,60990,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR5,512,0,0,87900,0
+Lenovo,AMD Processor,AMD,Windows,15.6,4,DDR4,0,1000,0,27490,0
+DELL,Other Intel Processor,Intel,Windows,15.6,8,DDR4,256,0,0,36990,0
+ASUS,AMD Processor,AMD,Windows,16.0,32,DDR5,2000,0,0,249990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,149990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+HP,AMD Processor,AMD,Windows,14.0,8,DDR4,0,1000,0,28999,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR5,512,0,0,87900,0
+acer,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,1000,0,117990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,85990,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,61497,0
+HP,AMD Processor,AMD,Windows,16.1,8,DDR4,512,0,0,70400,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,69000,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,64490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,149990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+HP,AMD Processor,AMD,Windows,16.1,8,DDR5,512,0,0,96579,0
+DELL,Other Intel Processor,Intel,Windows,15.6,16,DDR4,512,0,0,101990,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,DDR4,512,0,0,89990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+HP,AMD Processor,AMD,Windows,16.1,8,DDR5,512,0,0,94990,0
+MSI,Intel Core i7,Intel,Windows,17.3,32,DDR5,2000,0,0,314990,0
+DELL,Intel Core i3,Intel,Windows,15.0,8,DDR4,256,1000,0,46900,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,Other Intel Processor,Intel,Windows,16.0,32,DDR5,2000,0,0,331990,0
+DELL,Intel Core i7,Intel,Windows,15.6,16,DDR5,1000,0,0,116490,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,64590,0
+DELL,Intel Core i7,Intel,Windows,15.6,16,DDR5,1000,0,0,137990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+DELL,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,55690,0
+Lenovo,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,109990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+ASUS,Intel Core i7,Intel,Windows,15.6,8,DDR4,256,1000,0,79990,0
+ASUS,AMD Processor,AMD,Windows,16.0,16,DDR4,1000,0,0,130500,0
+ASUS,AMD Processor,AMD,Windows,16.0,32,DDR5,2000,0,0,361990,0
+ASUS,AMD Processor,AMD,Windows,16.0,16,DDR5,1000,0,0,211990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+DELL,Intel Core i3,Intel,Windows,15.0,4,DDR4,256,0,0,39890,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,139990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+MSI,Intel Core i7,Intel,Windows,15.6,16,DDR4,256,1000,0,99990,0
+HP,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,66700,0
+DELL,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,68990,0
+DELL,Other Intel Processor,Intel,Windows,17.3,32,DDR4,1000,0,0,434830,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ALIENWARE,Other Intel Processor,Intel,Windows,15.6,32,DDR4,1000,0,0,345390,0
+HP,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,105822,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,Other Intel Processor,Intel,Chrome,11.6,4,LPDDR4X,0,0,128,28490,1
+Lenovo,Intel Core i5,Intel,Windows,15.6,16,DDR4,512,0,0,66990,0
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,86999,0
+ASUS,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,36990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,Other Intel Processor,Intel,Windows,11.6,4,DDR4,256,0,0,23250,0
+DELL,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,42390,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i5,Intel,Windows,14.0,8,DDR4,512,0,0,58990,0
+ASUS,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,110990,1
+acer,Intel Core i5,Intel,Windows,15.6,8,DDR4,128,1000,0,74590,0
+DELL,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,71990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,44990,0
+Lenovo,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,84990,1
+ASUS,AMD Processor,AMD,Windows,13.3,16,LPDDR5,1000,0,0,119990,1
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+MSI,Intel Core i7,Intel,Windows,15.6,32,DDR4,1000,0,0,214990,0
+MSI,Intel Core i3,Intel,Windows,14.0,8,DDR4,512,0,0,48790,0
+DELL,AMD Processor,AMD,Windows,16.0,16,DDR4,512,0,0,76000,0
+ASUS,AMD Processor,AMD,Windows,13.4,32,LPDDR4X,1000,0,0,224990,1
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Infinix,Intel Core i3,Intel,Windows,15.6,8,LPDDR4X,512,0,0,49990,0
+ASUS,Intel Core i7,Intel,Windows,13.4,16,LPDDR5,512,0,0,164990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,256,0,0,31490,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,48077,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,154990,0
+ASUS,Intel Core i7,Intel,Windows,15.6,32,DDR4,1000,0,0,224990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,0,1000,0,44990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,65990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+ASUS,Intel Core i3,Intel,Windows,14.1,8,DDR4,0,1000,0,31990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,38980,0
+HP,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,68990,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,256,0,0,43090,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,154990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,65990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,49348,0
+DELL,Intel Core i7,Intel,Windows,15.6,16,DDR5,512,0,0,221774,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73990,0
+DELL,AMD Processor,AMD,Windows,16.0,16,DDR4,512,0,0,77990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ALIENWARE,Intel Core i7,Intel,Windows,15.6,16,DDR4,1000,0,0,214790,0
+ALIENWARE,Intel Core i7,Intel,Windows,15.6,16,DDR4,512,0,0,199990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+DELL,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,48077,0
+DELL,AMD Processor,AMD,Windows,14.0,8,DDR4,512,0,0,52414,0
+ASUS,Intel Core i7,Intel,Windows,16.0,16,DDR5,1000,0,0,179990,0
+ASUS,Other Intel Processor,Intel,Chrome,14.0,4,LPDDR4,0,0,64,25990,1
+Lenovo,Intel Core i3,Intel,Windows,14.0,8,DDR4,256,0,0,36990,0
+Lenovo,Intel Core i3,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+DELL,Intel Core i5,Intel,Windows,14.0,16,DDR4,512,0,0,80615,1
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,155990,0
+RedmiBook,Intel Core i5,Intel,Windows,15.6,8,DDR4,512,0,0,39990,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,196990,0
+Infinix,Intel Core i7,Intel,Windows,14.0,16,LPDDR4X,512,0,0,49990,0
+Lenovo,Intel Core i7,Intel,Windows,16.0,16,DDR4,1000,0,0,157990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,16,DDR5,512,0,0,92990,0
+ASUS,AMD Processor,AMD,Windows,16.0,16,DDR5,1000,0,0,171990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,38705,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,85990,0
+ASUS,Intel Core i5,Intel,Windows,15.6,8,DDR4,0,1000,0,44990,0
+ASUS,AMD Processor,AMD,Windows,13.4,16,LPDDR5,1000,0,0,151990,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,35590,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR4,1000,0,0,150990,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,LPDDR3,2000,0,0,233990,0
+DELL,Intel Core i5,Intel,Windows,13.3,16,DDR5,512,0,0,76590,0
+HP,AMD Processor,AMD,Windows,15.6,16,DDR4,512,0,0,90000,0
+ASUS,Other Intel Processor,Intel,Chrome,11.6,4,LPDDR4,0,0,64,23490,1
+Lenovo,AMD Processor,AMD,Windows,15.6,8,DDR4,512,0,0,73490,0
+ASUS,AMD Processor,AMD,Windows,15.6,16,DDR5,1000,0,0,194990,0
+ASUS,Intel Core i7,Intel,Windows,14.0,16,LPDDR5,512,0,0,125990,1
+Lenovo,Intel Core i5,Intel,Windows,15.6,8,DDR4,256,1000,0,50990,0
